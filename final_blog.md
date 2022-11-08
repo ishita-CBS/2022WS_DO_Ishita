@@ -4,7 +4,7 @@ Human organisations appear to be dominated by hierarchies. From the Catholic Chu
 ---
 # History
 
-The word Hierarchy dates back to ancient Greece. It seems to have been coined by [Pseudo-Dionysius the Areopagite] (https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/) in the 6th Century AD.
+The word Hierarchy dates back to ancient Greece. It seems to have been coined by [Pseudo-Dionysius the Areopagite] (https://plato.stanford.edu/entries/pseudo-dionysius-areopagite) in the 6th Century AD.
 ---
 # Perspectives on hierarchies
 
