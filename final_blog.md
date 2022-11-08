@@ -8,24 +8,24 @@ The word Hierarchy dates back to ancient Greece. It seems to have been establish
 
 When we talk about Human Organizations, we use the term Hierarchical Structure to illustrate the traditional pyramid organisational model, in which a boss coordinates the work of multiple subordinates. Many people believe that there is no alternative to this paradigm, which can only be minimised in its flaws. It's almost as though the first link with gods was never fully lost.
 
-# Why do we have hierarchies:
+## Why do we have hierarchies:
 
 Most animals on Earth exhibit Hierarchical Behaviors, which biologists and zoologists have observed. From ants to bonobos, it is common to believe that many creatures in Nature construct hierarchies. We've all seen films that emphasise the notion of the "Alpha Male," which is especially important among predators (Boehm, 2001). As Homo sapiens evolved, it appears that this collaborative attribute became increasingly "useful" from an evolutionary standpoint, particularly when the first groups of gatherers arose, with male hunters frequently functioning as the collective alpha (Calmettes and Weiss, 2017). Many people believe that a dominance hierarchy of persons with entirely self-centered qualities (the desire to dominate, resentment at being dominated) naturally shifts to equality as their language capacity grows. Language permits resentment of being dominated to foster the establishment of mutually advantageous coalitions that destabilise the alpha position for individuals, resulting in a phase shift in which a coalition of the entire or a portion of the population becomes dominant.
----
-# Theories of hierarchy:
 
----
-# Hierarchy and Organisation:
+## Theories of hierarchy:
 
----
-# Hierarchy and Power:
 
----
-# Hierarchy and Communication Flows:
+## Hierarchy and Organisation:
 
----
-# Why is Hierarchy so complex?
 
----
-# Conclusion:
----
+## Hierarchy and Power:
+
+
+## Hierarchy and Communication Flows:
+
+
+## Why is Hierarchy so complex?
+
+
+## Conclusion:
+
