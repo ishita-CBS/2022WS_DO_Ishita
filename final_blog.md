@@ -1,32 +1,31 @@
-# Introduction:
+## Introduction:
 
 Human organisations appear to be dominated by hierarchies. From the Catholic Church, to the Military, to the majority of organisations, we find these pyramid-like structures everywhere, to the point that many of us believe Hierarchy is a "Natural Order." However, the word hierarchy now has an almost negative meaning. Many criticisms are launched against hierarchical organisational forms, and several alternatives are proposed. However, when confronted with the notion itself, it is difficult to simply declare that "hierarchy is evil" and jump on a totally other system... since, to date, I claim that no scalable system is complete without hierarchical arrangement. Hierarchies are the logical underpinning of inference and reasoning as well as the scaffolding for classification. 
----
-# History
 
-The word Hierarchy dates back to ancient Greece. It seems to have been established by [Pseudo-Dionysius the Areopagite](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite) in the 6th Century AD. The etymology of the word hierarchy comes from the Greek, ἱεραρχία (hierarchia, or “rule of a high priest”), composed of the roots ἱερεύς (hiereus, or “priest, sacrificer, diviner”) and ἀρχή (arche, or “beginning, origin” and other broad meanings) (Liddell and Scott 1897; Van Hove 1910). The term hierarchy was first used to define the several degrees of the clerical polity during the Council of Trento. Hierarchies are the logical undergirding of inference and reasoning and classification. For the first time, we find the term used outside of a religious framework in the French Illuminism and the Encyclopedie. Hierarchy becomes a "Human Construct" that also applies to society. Several philosophers have reasoned on the notion of Hierarchy in various disciplines, particularly as a tool for categorization and taxonomies. Primarily, any organised structure with a subordinate connection is now referred to as a Hierarchy.                     
---
+## History:
+
+The word Hierarchy dates back to ancient Greece. It seems to have been established by [Pseudo-Dionysius the Areopagite](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite) in the 6th Century AD. The etymology of the word hierarchy comes from the Greek, ἱεραρχία (hierarchia, or “rule of a high priest”), composed of the roots ἱερεύς (hiereus, or “priest, sacrificer, diviner”) and ἀρχή (arche, or “beginning, origin” and other broad meanings) (Liddell and Scott 1897; Van Hove 1910). The term hierarchy was first used to define the several degrees of the clerical polity during the Council of Trento. Hierarchies are the logical undergirding of inference and reasoning and classification. For the first time, we find the term used outside of a religious framework in the French Illuminism and the Encyclopedie. Hierarchy becomes a "Human Construct" that also applies to society. Several philosophers have reasoned on the notion of Hierarchy in various disciplines, particularly as a tool for categorization and taxonomies. Primarily, any organised structure with a subordinate connection is now referred to as a Hierarchy. 
+
 When we talk about Human Organizations, we use the term Hierarchical Structure to illustrate the traditional pyramid organisational model, in which a boss coordinates the work of multiple subordinates. Many people believe that there is no alternative to this paradigm, which can only be minimised in its flaws. It's almost as though the first link with gods was never fully lost.
----
-# Perspectives on hierarchies
 
+# Why do we have hierarchies:
 
+Most animals on Earth exhibit Hierarchical Behaviors, which biologists and zoologists have observed. From ants to bonobos, it is common to believe that many creatures in Nature construct hierarchies. We've all seen films that emphasise the notion of the "Alpha Male," which is especially important among predators (Boehm, 2001). As Homo sapiens evolved, it appears that this collaborative attribute became increasingly "useful" from an evolutionary standpoint, particularly when the first groups of gatherers arose, with male hunters frequently functioning as the collective alpha (Calmettes and Weiss, 2017). Many people believe that a dominance hierarchy of persons with entirely self-centered qualities (the desire to dominate, resentment at being dominated) naturally shifts to equality as their language capacity grows. Language permits resentment of being dominated to foster the establishment of mutually advantageous coalitions that destabilise the alpha position for individuals, resulting in a phase shift in which a coalition of the entire or a portion of the population becomes dominant.
 ---
-# Theories of hierarchy
-
----
-# Hierarchy and Organisation
+# Theories of hierarchy:
 
 ---
-# Hierarchy and Power
+# Hierarchy and Organisation:
 
 ---
-# Hierarchy and Communication Flows
+# Hierarchy and Power:
+
+---
+# Hierarchy and Communication Flows:
 
 ---
 # Why is Hierarchy so complex?
 
 ---
-# Conclusion
-
+# Conclusion:
 ---
