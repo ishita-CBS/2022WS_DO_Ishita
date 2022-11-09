@@ -1,4 +1,4 @@
-# Hierarchy, a 'natural' order? 
+# Hierarchy, a 'natural' order
 by Ishita Rahman
 
 Posted On: 09th November, 2022
@@ -12,7 +12,7 @@ Human organisations appear to be dominated by hierarchies. From the Catholic Chu
 
 ## History:
 
-The word Hierarchy dates back to ancient Greece. It seems to have been established by [Pseudo-Dionysius the Areopagite](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite) in the 6th Century AD. The etymology of the word hierarchy comes from the Greek, ἱεραρχία (hierarchia, or “rule of a high priest”), composed of the roots ἱερεύς (hiereus, or “priest, sacrificer, diviner”) and ἀρχή (arche, or “beginning, origin” and other broad meanings) (Liddell and Scott 1897; Van Hove 1910). The term hierarchy was first used to define the several degrees of the clerical polity during the Council of Trento. Hierarchies are the logical undergirding of inference and reasoning and classification. For the first time, we find the term used outside of a religious framework in the French Illuminism and the Encyclopedie. Hierarchy becomes a "Human Construct" that also applies to society. Several philosophers have reasoned on the notion of Hierarchy in various disciplines, particularly as a tool for categorization and taxonomies. Primarily, any organised structure with a subordinate connection is now referred to as a Hierarchy. 
+The word Hierarchy dates back to ancient Greece. It seems to have been established by [Pseudo-Dionysius the Areopagite](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite) in the 6th Century AD. The etymology of the word hierarchy comes from the Greek, ἱεραρχία (hierarchia, or “rule of a high priest”), composed of the roots ἱερεύς (hiereus, or “priest, sacrificer, diviner”) and ἀρχή (arche, or “beginning, origin” and other broad meanings) (Liddell and Scott 1897). The term hierarchy was first used to define the several degrees of the clerical polity during the Council of Trento. Hierarchies are the logical undergirding of inference and reasoning and classification. For the first time, we find the term used outside of a religious framework in the French Illuminism and the Encyclopedie. Hierarchy becomes a "Human Construct" that also applies to society. Several philosophers have reasoned on the notion of Hierarchy in various disciplines, particularly as a tool for categorization and taxonomies. Primarily, any organised structure with a subordinate connection is now referred to as a Hierarchy. 
 
 When we talk about Human Organizations, we use the term Hierarchical Structure to illustrate the traditional pyramid organisational model, in which a boss coordinates the work of multiple subordinates. Many people believe that there is no alternative to this paradigm, which can only be minimised in its flaws. It's almost as though the first link with gods was never fully lost.
 
@@ -79,4 +79,23 @@ I wanted to explain on the concept "Hierarchy a 'natural' order" from many vario
 
 ## Sources:
 
+Bird, Alexander, and Emma Tobin. 2018. “Natural Kinds”. In The Stanford Encyclopedia of Philosophy, ed. Edward N. Zalta. Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/spr2018/entries/natural-kinds/ [Accessed 9 November 2022].
+
+Boehm, C. (2001). Hierarchy in the forest : the evolution of egalitarian behavior. Cambridge, Mass.: Harvard University Press.
+
+Calmettes, G. and Weiss, J.N. (2017). The emergence of egalitarianism in a model of early human societies. Heliyon, 3(11), p.e00451.
+
+Collins, R. (2016). Is Hierarchy Really Necessary? [online] HuffPost. Available at: https://www.huffpost.com/entry/is-hierarchy-really-neces_b_9850168 [Accessed 9 November 2022].
+
+Durkheim, É. (1984). The division of labour in society. Basingstoke: Macmillan.
+
+Fairtlough, G. (2007). The Three Ways of Getting Things Done: Hierarchy, Heterarchy and Responsible Autonomy in Organization. Triarchy Press.
+
+Ellis, George F. R. 2004. “True Complexity and Its Associated Ontology”. In Science and Ultimate Reality, eds. John D. Barrow, Paul C. W. Davies, and Charles L. Harper, Jr. Cambridge University Press, 607–36. https://www.cambridge.org/core/product/identifier/CBO9780511814990A044/type/book_part [Accessed 9 November 2022].
+
+Liddell, Henry George, and Robert Scott. 1897. A Greek-English Lexicon. New York: American Book Company.
+
+Mitchell, M. (2011). Complexity : a guided tour. New York ; Oxford: Oxford University Press.
+
+Pumain, Denise. 2006. “Introduction”. In Hierarchy in Natural and Social Sciences, ed. Denise Pumain. Dordrecht: Springer Netherlands, 1–12. https://link.springer.com/chapter/10.1007/1-4020-4127-6_1 [Accessed 9 November 2022].
 
