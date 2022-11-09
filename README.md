@@ -40,7 +40,7 @@ Ancient Greece and Catholic Church > Council of Trento (several degrees of the c
 
 # Hierarchy and Organisation:
 
-![Image of Maslow’s Pyramid of Needs](http://media.the-ceo-magazine.com/sites/default/files/nodes/images/organizational-pyramid-1.jpg)
+![Image of Traditional Hierarchy in an organization](http://media.the-ceo-magazine.com/sites/default/files/nodes/images/organizational-pyramid-1.jpg)
 
 Traditional Hierarchy
 
@@ -57,6 +57,7 @@ in this case, a person or a group has the autonomy to determine what to do but i
 ---
 
 # Hierarchy and Power:
+
 
 ---
 
