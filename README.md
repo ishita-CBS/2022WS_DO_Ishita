@@ -40,7 +40,7 @@ Ancient Greece and Catholic Church > Council of Trento (several degrees of the c
 
 # Hierarchy and Organisation:
 
-![Image of Maslow’s Pyramid of Needs]([https://www.oreilly.com/api/v2/epubs/9781292200644/files/images/f0056_01.png](http://media.the-ceo-magazine.com/sites/default/files/nodes/images/organizational-pyramid-1.jpg)
+![Image of Maslow’s Pyramid of Needs](http://media.the-ceo-magazine.com/sites/default/files/nodes/images/organizational-pyramid-1.jpg)
 
 ---
 
