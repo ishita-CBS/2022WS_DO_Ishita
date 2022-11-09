@@ -1,7 +1,7 @@
 # Hierarchy, a 'natural' order
 by Ishita Rahman
 
-Posted On: 09th November, 2022
+Posted On: 9th November, 2022
 
 Reading Time: 15 Minutes
 
