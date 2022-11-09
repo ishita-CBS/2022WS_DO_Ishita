@@ -2,14 +2,13 @@
 
 This is the coueseWork from Ishita Rahman For the class of Digital Organisation at [CBS](https://cbs.de) by [Prof. Anders](https://ulrich-anders.eu/)
 
-# Bye
+### Coursework topic: Hierarchy, a 'natural' order.
 
 --- 
 
 # What is Hierarchy?
-## This is header 2
-I'm now writing something which doesn't make any sense
-###Just to see
+
+
 
 ---
 
