@@ -26,7 +26,15 @@ Pumain identified distinct hierarchical objects and procedures in several discip
 
 ## Hierarchy and Organisation:
 
+Most models for integrating knowledge, know-how, competences, and abilities are hierarchical. The Functional Organization idea is based on a taxonomy of operations rather than an authority hierarchy. The division of labour concept (Durkheim, 1984) is nothing more than a hierarchical taxonomy applied to work tasks and activities.
+But how can hierarchies emerge in organisations? Workers begin to organise in businesses when an entrepreneur begins to hire people, according to Ronald Coase's seminal paper The Nature of the Firm. According to classical economic theory, there should be no need for such an organisation in the existence of perfect markets. However, Coase recognised that the birth of a business was inextricably related to the imperfect market and the reality that internal transaction costs within an organisation would be lower than market transaction costs. These decreased transaction costs are mostly obtained as a result of the firm's employment of a hierarchical principle: the entrepreneur may command and organise the work of its workers, who carry out directions.
 
+However, according to Gerard Fairtlough, this is a misunderstanding since we tend to mix up two essential ideas that both use the word "Organisation." An organisation is a collection of individuals who work together for a common goal. Organization is a type of action that involves the establishment of discipline and order (Fairtlough, 2007).
+In his opinion, there are three methods to get things done in an organisation. He named this triarchy, and below is a summary of its components.
+1. Hierarchy
+2. Heterarchy is a type of organisation that is typically seen in professional-service businesses, such as partnerships of accountants or attorneys, in which crucial decisions are made jointly by all of the partners.
+3. Responsible autonomy: in this case, a person or a group has the autonomy to determine what to do but is held accountable for the decision's consequences.
+In the view of Fairtlough, the biggest problem is not that we are hardwired to work in a hierarchy, but that we assume Hierarchy is the only way of getting things done.
 ## Hierarchy and Power:
 
 
