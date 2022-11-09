@@ -16,6 +16,13 @@ So, is humanity essentially hierarchical? The best response is that our nature i
 
 ## Theories of hierarchy:
 
+There are several categories of 'hierarchies.' One distinguishing feature is whether hierarchies are artificial or natural, with categorization based on 'natural sorts' (Bird and Tobin 2018; Peirce 1998b; Brakel 1998). Another factor to consider is whether hierarchies are built from the top down or from the bottom up (Czégel and Palla 2016; Ellis 2004; Lane 2006; Salthe 2012; Walker 2014; Yao 2009). Some argue that separate boundaries are required to identify objects (Durkheim and Mauss 2009), while information theory may assist clarify previously ambiguous differences (Ellis 2004; Wu 2013). Some mention purpose hierarchies (Herrmann-Pillath and Salthe 2011), which is another issue we shall return to. Some notions, such as 'flow hierarchies' (Luo et al. 2009), are included, although they are sequential rather than subsumptive.
+
+Pumain identified distinct hierarchical objects and procedures in several disciplines while also asking common or cross-disciplinary questions (2006, 7). She proposed three ideas, which are not necessarily mutually incompatible, explaining why hierarchical hierarchies are so common in natural or social systems that we observe:
+
+1. Hierarchies are just our way of observing and comprehending our surroundings.
+2. In unrestricted dynamic random systems, hierarchies are spontaneous attractors.
+3. For many optimization situations, hierarchies are the optimum answer.
 
 ## Hierarchy and Organisation:
 
