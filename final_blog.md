@@ -1,6 +1,6 @@
 ## Hierarchy ...is it a 'natural' order? 
-by Ishita Rahman
 
+by Ishita Rahman
 
 ## Introduction:
 
