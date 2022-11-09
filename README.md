@@ -16,11 +16,17 @@ The etymology of the word hierarchy comes from the Greek, hierarchia, or “rule
 
 # History of Hierarchy in human socity:
 
-Ancient Greece and Catholic Church > Council of Trento (several degrees of the clerical polity) > French Illuminism ("Human Construct" in socity) > Modern Era (Structure to illustrate power, information flow etc.)
+Ancient Greece and Catholic Church > Council of Trento (several degrees of the clerical polity) > French Illuminism ("Human Construct" in socity) > Modern Era, in organizational context (Structure to illustrate power, information flow etc.)
 
 ---
 
 # Types of Hierarchy?
+
+1. Traditional Hierarchy: "top-down"
+2. Flatter Organizations: There is some form of hierarchy, but there are open lines present for communication and collaboration
+3. Flat Organizations: No job titles, seniorities, and managerial division structure
+4. Flatarchies: highly dynamic, somewhere in between traditional hierarchies and flat organizations
+5. Holocratic Organizations: "Holo", meaning "whole" and "cratic" means "to rule or govern"; it is the rule of all.
 
 ---
 
