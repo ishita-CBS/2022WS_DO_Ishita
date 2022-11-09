@@ -40,9 +40,13 @@ Ancient Greece and Catholic Church > Council of Trento (several degrees of the c
 
 # Hierarchy and Organisation:
 
-![Image of Maslow’s Pyramid of Needs](http://media.the-ceo-magazine.com/sites/default/files/nodes/images/organizational-pyramid-1.jpg)Traditional Hierarchy
+![Image of Maslow’s Pyramid of Needs](http://media.the-ceo-magazine.com/sites/default/files/nodes/images/organizational-pyramid-1.jpg)
 
-## Alternatives to Traditional Hierarchy: 
+Traditional Hierarchy
+
+---
+
+# Alternatives to Traditional Hierarchy: 
 
 ### Heterarchy, 
 is a type of organization that is typically seen in professional-service businesses, such as partnerships of accountants or attorneys, in which crucial decisions are made jointly by all of the partners.
