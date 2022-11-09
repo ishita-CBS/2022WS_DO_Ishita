@@ -1,7 +1,9 @@
 # Hierarchy, a 'natural' order? 
 by Ishita Rahman
-POSTED ON: 09th November, 2022
-READING TIME: 15 MINUTES
+
+Posted On: 09th November, 2022
+
+Reading Time: 15 Minutes
 
 ---
 ## Introduction:
