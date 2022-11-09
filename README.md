@@ -32,9 +32,15 @@ Ancient Greece and Catholic Church > Council of Trento (several degrees of the c
 
 # Why do we have hierarchies?
 
+1. Hierarchies are just our way of observing and comprehending our surroundings.
+2. In unrestricted dynamic random systems, hierarchies are spontaneous attractors.
+3. For many optimization situations, hierarchies are the optimum answer.
+
 ---
 
 # Hierarchy and Organisation:
+
+![Image of Maslow’s Pyramid of Needs]([https://www.oreilly.com/api/v2/epubs/9781292200644/files/images/f0056_01.png](http://media.the-ceo-magazine.com/sites/default/files/nodes/images/organizational-pyramid-1.jpg)
 
 ---
 
