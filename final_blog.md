@@ -93,13 +93,10 @@ Fairtlough, G. (2007). The Three Ways of Getting Things Done: Hierarchy, Heterar
 
 Ellis, George F. R. 2004. “True Complexity and Its Associated Ontology”. In Science and Ultimate Reality, eds. John D. Barrow, Paul C. W. Davies, and Charles L. Harper, Jr. Cambridge University Press, 607–36. https://www.cambridge.org/core/product/identifier/CBO9780511814990A044/type/book_part [Accessed 9 November 2022].
 
----
-
-
-
 Liddell, Henry George, and Robert Scott. 1897. A Greek-English Lexicon. New York: American Book Company.
 
 Mitchell, M. (2011). Complexity : a guided tour. New York ; Oxford: Oxford University Press.
 
 Pumain, Denise. 2006. “Introduction”. In Hierarchy in Natural and Social Sciences, ed. Denise Pumain. Dordrecht: Springer Netherlands, 1–12. https://link.springer.com/chapter/10.1007/1-4020-4127-6_1 [Accessed 9 November 2022].
 
+---
