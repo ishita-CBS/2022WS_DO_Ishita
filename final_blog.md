@@ -57,6 +57,8 @@ This lack of communication, as well as the lack of openness and power, has resul
 
 ## Why is Hierarchy so complex?
 
+![Image of Maslow’s Pyramid of Needs](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.oreilly.com%2Flibrary%2Fview%2Fthe-little-book%2F9781292200644%2Fhtml%2Fchapter-028.html&psig=AOvVaw1nlWn_vFdvlsE7N-s0Pi-I&ust=1668086038832000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKCSv76XofsCFQAAAAAdAAAAABAU) 
+
 There is nothing intrinsically wrong with hierarchies. The truth is that Nature's default mode of operation is Complex Adaptive Systems rather than Hierarchy. This may be translated as "a system in which enormous networks of components with no central control and simple operating principles give birth to complex collective behaviour, sophisticated information processing, and adaptability through learning or evolution." Mitchell (2011)
 
 In the framework of a mechanical system meant to leverage control and preserve balance, hierarchies operate well. However, when changing circumstances are introduced, the benefit of complex adaptive systems becomes clear: they are excellent at utilising collective learning to adjust to changing surroundings.
