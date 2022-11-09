@@ -8,7 +8,7 @@ Reading Time: 15 Minutes
 ---
 ## Introduction:
 
-Human organisations appear to be dominated by hierarchies. From the Catholic Church, to the Military, to the majority of organisations, we find these pyramid-like structures everywhere, to the point that many of us believe Hierarchy is a "Natural Order." However, the word hierarchy now has an almost negative meaning. Many criticisms are launched against hierarchical organisational forms, and several alternatives are proposed. However, when confronted with the notion itself, it is difficult to simply declare that "hierarchy is evil" and jump on a totally other system... since, to date, I claim that no scalable system is complete without hierarchical arrangement. Hierarchies are the logical underpinning of inference and reasoning as well as the scaffolding for classification. 
+Human organisations appear to be dominated by hierarchies. From the Catholic Church, to the Military, to the majority of organisations, we find these pyramid-like structures everywhere, to the point that many of us believe Hierarchy is a "Natural Order." However, the word hierarchy now has an almost negative meaning. Many criticisms are launched against hierarchical organisational forms, and several alternatives are proposed. However, when confronted with the notion itself, it is difficult to simply declare that "hierarchy is evil" and jump on a totally other system... since, to date, I claim that no scalable system is complete without hierarchical arrangement. There is a doubt about whether Hierarchy is a natural order or not, but it is accepted by most that Hierarchies are the logical underpinning of inference and reasoning as well as the scaffolding for classification. 
 
 ## History:
 
