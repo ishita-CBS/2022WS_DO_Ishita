@@ -16,6 +16,8 @@ The etymology of the word hierarchy comes from the Greek, hierarchia, or “rule
 
 # History of Hierarchy in human socity:
 
+Ancient Greece and Catholic Church > Council of Trento (several degrees of the clerical polity) > French Illuminism ("Human Construct" in socity) > Modern Era (Structure to illustrate power, information flow etc.)
+
 ---
 
 # Types of Hierarchy?
