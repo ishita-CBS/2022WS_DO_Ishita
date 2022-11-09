@@ -1,6 +1,4 @@
-## Hierarchy ...is it a 'natural' order?:
-
-by Ishita Rahman
+# Hierarchy ...is it a 'natural' order? by Ishita Rahman
 
 ## Introduction:
 
