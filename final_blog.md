@@ -71,10 +71,10 @@ Finally, the optimal approach is likely to be a situational hierarchy in which e
 In this blog, I attempted to show a few facts critical to understanding the notion of Hierarchies.
 
 1. Initially, the word hierarchy is associated with religious circumstances.
-2. Homo Sapiens is a species that is more egalitarian than hierarchical. However, with the formation of contemporary civilizations larger than a small hamlet, some control principles forced humans to adopt hierarchical forms of organisation. I
+2. Homo Sapiens is a species that is more egalitarian than hierarchical. However, with the formation of contemporary civilizations, some control principles were forced by humans to adopt hierarchical forms in the society.
 3. Hierarchy is an effective technique for developing and maintaining a social narrative.
 4. Hierarchy is a method of organising information. When applied to an organisation, we prefer to combine the Power element with the human need to make sense of information by employing taxonomies and hierarchies.
-5. Alternate solution to Hierarchy can be classified as Heterarchy or Responsible Autonomy clusters. However, the difficulty is how to expand organisations that adhere to these ideals.
+5. Alternate solution to Hierarchy can be classified as Heterarchy or Responsible Autonomy clusters. However, the difficulty is how to expand organisations that comply to these ideals.
 
 Traditional top-down hierarchies are unsuitable in many present-day environments, because continual adaptation and change may be necessary. However, in order to expand an organisation, we must completely discard the hierarchical idea. In any event, there will be times when they will be required.
 I wanted to explain on the concept "Hierarchy a 'natural' order" from many various perspectives that are required to appreciate it holistically, because it is all too easy to dismiss Hierarchy as unnecessary without having a comprehensive picture of the alternative.
