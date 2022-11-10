@@ -58,18 +58,26 @@ in this case, a person or a group has the autonomy to determine what to do but i
 
 # Hierarchy and Power:
 
+![Image of Hierarchy and Power in an organization](https://viva.pressbooks.pub/app/uploads/sites/8/2018/04/Figure-9.1-Levels-of-Management-1024x791.jpg) 
 
 ---
 
 # Why is Hierarchy so complex?
 
+1. It's a system meant to leverage control to preserve balance
+2. Change cercumstances like emergerce of "New work"can unstablise it 
+
 ---
 
 # Is Hierarchy a "natural" order?
 
+In my opnion Hierarchy is a "natural" order but it does not mean we can not cusmomise Hierarchy as our needs in modern era!
+
 ---
 
 # My takeaway:
+
+
 
 ---
 
