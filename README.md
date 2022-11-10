@@ -71,7 +71,7 @@ in this case, a person or a group has the autonomy to determine what to do but i
 
 # Is Hierarchy a "natural" order?
 
-In my opnion Hierarchy is a "natural" order but it does not mean we can not cusmomise Hierarchy as our needs in modern era!
+In my opinion, Hierarchy is a "natural" order, but that doesn't mean we can't adapt Hierarchy to meet our needs in the modern era!
 
 ---
 
