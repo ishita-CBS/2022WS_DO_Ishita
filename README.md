@@ -51,7 +51,7 @@ Traditional Hierarchy
 #### Heterarchy,
 organization, such as partnerships of accountants or attorneys, in which crucial decisions are made jointly by all of the partners.
 
-### Responsible autonomy, 
+#### Responsible autonomy, 
 the autonomy to determine what to do but is held accountable for the decision's consequences. 
 
 ---
