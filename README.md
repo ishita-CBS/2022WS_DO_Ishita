@@ -90,6 +90,9 @@ In my opinion, Hierarchy is a "natural" order, but that doesn't mean we can't ad
 ---
 
 # Resources:
+element {
+  font-size: 20;
+}
 
 Bird, Alexander, and Emma Tobin. 2018. “Natural Kinds”. In The Stanford Encyclopedia of Philosophy, ed. Edward N. Zalta. Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/spr2018/entries/natural-kinds/ [Accessed 9 November 2022].
 
