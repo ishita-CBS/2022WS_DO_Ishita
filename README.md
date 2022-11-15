@@ -58,7 +58,7 @@ in this case, a person or a group has the autonomy to determine what to do but i
 
 # Hierarchy and Power:
 
-![Image of Hierarchy and Power in an organization](https://viva.pressbooks.pub/app/uploads/sites/8/2018/04/Figure-9.1-Levels-of-Management-1024x791.jpg) 
+![Image of Hierarchy and Power in an organization](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs42001-020-00081-w/MediaObjects/42001_2020_81_Fig1_HTML.png) 
 
 ---
 
