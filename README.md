@@ -1,5 +1,5 @@
 
-### Coursework topic: Hierarchy, a 'natural' order
+#### Coursework topic: Hierarchy, a 'natural' order
 
  by Ishita Rahman
  
@@ -48,11 +48,11 @@ Traditional Hierarchy
 
 # Alternatives to Traditional Hierarchy: 
 
-### Heterarchy,
-Type of organization that is typically seen in professional-service businesses, such as partnerships of accountants or attorneys, in which crucial decisions are made jointly by all of the partners.
+#### Heterarchy,
+organization, such as partnerships of accountants or attorneys, in which crucial decisions are made jointly by all of the partners.
 
 ### Responsible autonomy, 
-A person or a group has the autonomy to determine what to do but is held accountable for the decision's consequences. 
+the autonomy to determine what to do but is held accountable for the decision's consequences. 
 
 ---
 
