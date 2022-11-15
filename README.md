@@ -1,7 +1,8 @@
 
-# Coursework topic: Hierarchy, a 'natural' order
+### Coursework topic: Hierarchy, a 'natural' order
 
  by Ishita Rahman
+ 
  
 --- 
 
